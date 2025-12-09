@@ -1,0 +1,4 @@
+1:"$Sreact.fragment"
+2:I[55989,["/dual-currency-calculator/_next/static/chunks/c5122beb58defebd.js"],"default"]
+3:I[96894,["/dual-currency-calculator/_next/static/chunks/c5122beb58defebd.js"],"default"]
+0:{"buildId":"mwrfHwXOHObJvf2-ze2Cl","rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"loading":null,"isPartial":false}
